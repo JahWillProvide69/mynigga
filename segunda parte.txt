@@ -1,0 +1,31 @@
+C: 
+Dir listado de las carpetas 
+Cd nombre de la carpeta 
+Cd tag ? listado ?
+Cd (..) va para atr s ?
+Mkdir algo ? crea una carpeta que diga algo ?.
+Touch archivo.txt crear archivo 
+del archivo.txt remove 
+rename nombre.txt otro.txt cambia el nombre
+Cls   limpia todo lo que aparecia en la consola
+
+Undo a corto plazo o a largo plazo
+Seguimientos de cambio y autorio y resoluci¢n de conflictos 
+Branching and merging
+Forking y pull request
+Espacio de pruebas 
+Branch
+Harina 			Harina x 		Harina x y 		Harina z y 
+Todos existen solo que est n revisados?  
+Rollback xy Push zy Pull from  xz to 
+Push al final la rama principal
+Rollback and then Pull
+Pull everythin 
+Git init 
+Git add al? archivo ? hace un push ? cual queres que se haga push en git?. MANERA LOCAL
+Git status? 
+Git commit -m ?primer versi¢n de la aplicaci¢n? 
+Git push 
+ADD FILES TO GIT.. COMMIT -M BLA BLA BLA 
+https://github.com/JahWillProvide69/mynigga.git
+
